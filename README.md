@@ -2,14 +2,10 @@
 
 Welcome to my GitHub profile! I'm a student of Analysis and Systems Development, and I'm passionate about technology, game development, and art.
 
+<img align="right" height="150" src="marshal-working.gif"  />
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamwhds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  </div>
-  <div style="margin-left: auto;">
-    <img height="150" src="marshal-working.gif"  />
-  </div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamwhds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ## 🌱 Currently Learning: 
